@@ -4,4 +4,10 @@ Cabang Hongkong
 Cabang London 
 Cabang Seoul 
 
+Cabang Amasterdam 
+Cabang Singapura 
+Cabang Swiss 
+Cabang Tokyo 
+Cabang Osaka
+
 Author : Amira Ferial
