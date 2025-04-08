@@ -9,5 +9,6 @@ Cabang Singapura
 Cabang Swiss 
 Cabang Tokyo 
 Cabang Osaka
+Cabang Cek Pull
 
 Author : Amira Ferial
